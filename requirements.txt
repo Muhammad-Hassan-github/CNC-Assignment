@@ -17,7 +17,7 @@ grpc-google-logging-v2==0.8.1
 grpc-google-pubsub-v1==0.8.1
 grpcio==1.28.0rc2
 gyp==0.1
-httplib2==0.17.0
+httplib2==0.19.0
 idna==2.6
 ipaddress==1.0.17
 itsdangerous==1.1.0
